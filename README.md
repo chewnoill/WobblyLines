@@ -1,2 +1,0 @@
-# WobblyLines
-Created with CodeSandbox
